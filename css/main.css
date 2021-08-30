@@ -102,8 +102,7 @@ h1, h2, strong {
     background: #FFE600;
     color: #000;
     justify-self: start;
-    transition: all 250ms;
-    transform: scale(1);
+    transition: all 250ms
 }
 
 .btn-primary:hover,
